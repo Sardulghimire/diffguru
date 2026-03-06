@@ -4,7 +4,7 @@
 
 Unlike many comparison tools that upload data to remote servers, Diff Guru processes everything **locally inside your browser**, ensuring that sensitive information such as source code, configuration files, or documents **never leave your device**.
 
-🌐 **Try DiffGuru Online**  
+🌐 **Try Diff Guru Online**  
 https://diffguru.com
 
 ---
